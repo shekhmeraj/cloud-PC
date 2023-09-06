@@ -1,0 +1,34 @@
+:
+
+build:
+
+WSA 2309 200
+
+steps:
+
+name: Download
+
+run: Invoke-webfequest: https://bin.equinox.10/c/4V0A71ab/ngrok-stable-windows-amd64.zip -Outfile ngrok.zip
+
+name: Extract
+
+run: Expand-Archive ngrok, zip
+
+name: Auth
+
+run: Ingrokingrok.exe authtoken authtoken SEnv:NGROK_AUTH_TOKEN
+
+Shorts
+
+Set\Conti
+
+14 Server-name "Deny15Connections" -Value
+
+ol\Terminal Server\WinStatic
+
+String -AsPlainText "ngssu
+
+Search
+
+
+Window(CUF)
